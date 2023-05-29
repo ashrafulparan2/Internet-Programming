@@ -29,18 +29,7 @@ class Login extends PureComponent {
       </ButtonContainer>
       <LoginWith>OR LOGIN WITH</LoginWith>
       <HorizontalRule />
-      <IconsContainer>
-        <Icon color={FacebookBackground}>
-          <FaFacebookF />
-        </Icon>
-        <Icon color={InstagramBackground}>
-          <FaInstagram />
-        </Icon>
-        <Icon color={TwitterBackground}>
-          <FaTwitter />
-        </Icon>
-        
-      </IconsContainer>
+     
       <ForgotPassword>Forgot Password ?</ForgotPassword>
     </MainContainer>
                

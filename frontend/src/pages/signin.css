@@ -7,7 +7,7 @@
 }
 .bdy{
     font-family:'raleway',sans-serif;
-    background-image: url("/images/background.jpg");
+    background-color: #212529;
     background-size: cover;
     display: flex;
     justify-content: center;
