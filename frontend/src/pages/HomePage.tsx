@@ -1,5 +1,6 @@
 import { Carousel, Container } from 'react-bootstrap'
 
+<<<<<<< HEAD
 import '@splidejs/react-splide/css'
 import { Link } from 'react-router-dom'
 
@@ -18,6 +19,16 @@ import { sampleProducts } from '../data.js'
 
 // import required modules
 import { Pagination } from 'swiper'
+=======
+import {
+  FaShoppingCart,
+  FaRegBookmark,
+  FaStar,
+  FaFireAlt, 
+} from "react-icons/fa";
+import { Splide, SplideSlide } from "@splidejs/react-splide";
+import "@splidejs/react-splide/css";
+>>>>>>> 6cafd3120dc4368b2fdc71ba15468e0194d82a7c
 
 export default function HomePage() {
   const swiperOptions = {
