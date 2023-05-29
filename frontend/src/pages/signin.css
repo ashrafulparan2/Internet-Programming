@@ -7,9 +7,11 @@
 }
 .bdy{
     font-family:'raleway',sans-serif;
-    background-image: url("../../public/images/background.jpg");
+    background-image: url("/images/background.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    width: 100vw;
 }

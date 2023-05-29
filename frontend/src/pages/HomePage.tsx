@@ -6,7 +6,7 @@ import {
   FaShoppingCart,
   FaRegBookmark,
   FaStar,
-  FaFireAlt,
+  FaFireAlt, 
 } from "react-icons/fa";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 import "@splidejs/react-splide/css";
